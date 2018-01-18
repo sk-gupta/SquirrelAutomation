@@ -1,0 +1,720 @@
+11:24:26,315 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+11:24:26,440 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+11:26:31,372 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+11:26:31,519 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+11:33:01,882 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+11:33:02,015 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+11:34:56,846 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+11:34:56,980 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+11:36:03,467 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+11:36:03,591 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+11:36:46,703 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+11:36:46,830 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+13:35:49,164 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:35:49,296 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+13:37:11,641 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:37:11,642 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+13:37:11,987 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:37:11,987 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+13:40:41,903 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:40:42,029 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+13:40:44,621 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:40:44,621 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+13:40:44,900 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:40:44,901 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+13:42:11,488 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:42:11,619 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+13:42:16,728 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:42:16,728 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+13:42:17,071 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:42:17,071 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+13:43:32,809 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 34
+13:43:32,875 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 34 entered
+13:44:04,582 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeeptest
+13:44:04,630 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeeptest entered
+13:47:31,046 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:47:31,170 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+13:47:33,787 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:47:33,788 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+13:47:34,071 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:47:34,071 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+13:47:34,287 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 34
+13:47:34,328 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 34 entered
+13:47:34,331 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeeptest
+13:47:34,373 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeeptest entered
+13:52:06,033 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:52:06,165 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+13:52:08,899 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:52:08,899 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+13:52:09,221 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+13:52:09,222 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+13:52:09,433 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 34
+13:52:09,475 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 34 entered
+13:52:09,477 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeeptest
+13:52:09,540 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeeptest entered
+14:24:27,881 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:24:28,028 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+14:24:34,417 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:24:34,418 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+14:24:34,817 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:24:34,818 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+14:24:40,347 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 34
+14:24:40,397 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 34 entered
+14:24:41,667 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeeptest
+14:24:41,736 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeeptest entered
+14:32:49,961 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:32:50,092 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+14:32:52,785 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:32:52,786 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+14:32:53,082 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:32:53,082 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+14:32:53,299 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 34
+14:32:53,339 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 34 entered
+14:32:53,341 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeeptest
+14:32:53,383 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeeptest entered
+14:34:12,992 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:34:13,131 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+14:34:16,158 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:34:16,159 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+14:34:16,467 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:34:16,467 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+14:34:16,703 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 34
+14:34:16,750 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 34 entered
+14:34:16,753 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeeptest
+14:34:16,798 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeeptest entered
+14:37:11,467 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:37:11,603 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+14:37:14,605 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:37:14,606 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+14:37:14,977 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:37:14,977 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+14:37:15,196 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 34
+14:37:15,241 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 34 entered
+14:37:15,244 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeeptest
+14:37:15,285 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeeptest entered
+14:37:16,541 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:37:16,542 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+14:37:16,754 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:37:16,755 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+14:38:46,811 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:38:46,945 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+14:38:49,719 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:38:49,719 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+14:38:50,034 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:38:50,034 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+14:38:50,359 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 34
+14:38:50,406 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 34 entered
+14:38:50,409 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Test2
+14:38:50,446 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Test2 entered
+14:38:51,641 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:38:51,641 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+14:38:51,942 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:38:51,942 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+14:52:49,058 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:52:49,193 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+14:52:52,166 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:52:52,167 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+14:52:52,539 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:52:52,539 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+14:52:52,748 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 34
+14:52:52,792 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 34 entered
+14:52:52,795 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Test2
+14:52:52,835 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Test2 entered
+14:52:54,044 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:52:54,045 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+14:53:52,470 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:53:52,607 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+14:53:55,415 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:53:55,416 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+14:53:55,780 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:53:55,781 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+14:53:55,999 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 34
+14:53:56,042 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 34 entered
+14:53:56,044 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Test2
+14:53:56,086 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Test2 entered
+14:53:57,314 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:53:57,314 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+14:56:47,606 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:56:47,745 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+14:56:52,852 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:56:52,853 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+14:56:53,277 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:56:53,278 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+14:57:07,188 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 34
+14:57:07,304 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 34 entered
+14:57:13,717 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Test2
+14:57:13,795 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Test2 entered
+14:57:21,733 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+14:57:21,734 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+15:26:08,648 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:26:08,796 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+15:26:24,261 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:26:24,262 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+15:26:24,647 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:26:24,647 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+15:26:32,021 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 986
+15:26:32,078 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 986 entered
+15:26:44,882 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering HVRQLOLF
+15:26:44,968 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - HVRQLOLF entered
+15:26:59,322 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:26:59,323 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+15:29:04,209 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:29:04,356 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+15:29:08,962 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:29:08,963 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+15:29:09,351 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:29:09,352 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+15:29:11,353 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 610
+15:29:11,411 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 610 entered
+15:29:12,633 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering LJRYZSQG
+15:29:12,693 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - LJRYZSQG entered
+15:29:14,157 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:29:14,157 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+15:32:58,598 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:32:58,743 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+15:33:36,990 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:33:37,131 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+15:33:41,165 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:33:41,166 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+15:33:41,601 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:33:41,602 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+15:33:43,353 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 469
+15:33:43,412 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 469 entered
+15:33:44,263 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering FKEGXKVK
+15:33:44,329 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - FKEGXKVK entered
+15:33:45,581 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:33:45,582 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+15:38:13,504 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:38:13,706 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+15:38:17,447 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:38:17,448 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+15:38:17,796 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:38:17,797 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+15:38:20,151 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 818
+15:38:20,215 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 818 entered
+15:38:21,162 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering JIMOOIIQ
+15:38:21,237 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - JIMOOIIQ entered
+15:38:22,526 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:38:22,527 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+15:40:51,333 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:40:51,494 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+15:40:55,853 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:40:55,854 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+15:40:56,201 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:40:56,201 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+15:40:58,611 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 914
+15:40:58,665 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 914 entered
+15:40:59,696 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering QNDPMLYN
+15:40:59,767 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - QNDPMLYN entered
+15:41:01,051 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:41:01,052 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+15:41:55,717 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:41:55,858 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+15:41:59,421 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:41:59,422 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+15:41:59,834 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:41:59,834 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+15:42:01,785 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 404
+15:42:01,838 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 404 entered
+15:42:03,025 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering ZZWDUEPL
+15:42:03,095 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - ZZWDUEPL entered
+15:42:04,384 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:42:04,385 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+15:51:34,890 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:51:35,026 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+15:51:40,395 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:51:40,395 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+15:51:40,900 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:51:40,900 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+15:51:43,242 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 290
+15:51:43,292 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 290 entered
+15:51:44,632 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering QJJWVLVI
+15:51:44,704 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - QJJWVLVI entered
+15:51:45,950 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:51:45,951 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+15:54:51,142 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:54:51,280 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+15:54:55,676 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:54:55,676 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+15:54:56,063 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:54:56,063 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+15:54:58,852 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 247
+15:54:58,900 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 247 entered
+15:55:00,324 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering SRRGMSTI
+15:55:00,399 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - SRRGMSTI entered
+15:55:01,652 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+15:55:01,653 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:01:09,526 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:01:09,678 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+16:01:20,119 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:01:20,121 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+16:01:20,448 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:01:20,449 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+16:01:24,813 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 3876
+16:01:24,881 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 3876 entered
+16:01:26,175 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering KVRNBBTMWD
+16:01:26,357 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - KVRNBBTMWD entered
+16:01:27,638 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:01:27,639 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:01:37,688 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+16:01:37,779 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+16:01:43,094 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+16:01:43,191 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+16:01:48,315 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 101
+16:01:48,410 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 101 entered
+16:01:53,512 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+16:01:53,697 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+16:02:00,033 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:02:00,034 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+16:10:47,465 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:10:47,625 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+16:10:50,600 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:10:50,601 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+16:10:50,940 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:10:50,941 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+16:10:54,239 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 2984
+16:10:54,301 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 2984 entered
+16:10:56,019 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering HYSZQBTCNA
+16:10:56,077 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - HYSZQBTCNA entered
+16:10:57,282 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:10:57,282 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:11:02,803 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+16:11:02,895 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+16:11:05,793 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+16:11:05,885 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+16:11:09,872 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 101
+16:11:09,953 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 101 entered
+16:11:18,409 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+16:11:18,493 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+16:11:35,060 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+16:11:35,143 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+16:11:40,714 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:11:40,715 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+16:28:04,993 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:28:05,128 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+16:28:07,964 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:28:07,965 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+16:28:08,338 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:28:08,338 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+16:28:08,555 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 6175
+16:28:08,601 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 6175 entered
+16:28:08,603 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering JSCQREDUBJ
+16:28:08,657 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - JSCQREDUBJ entered
+16:28:09,882 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:28:09,883 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:28:10,153 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+16:28:10,214 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+16:28:10,395 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+16:28:10,470 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+16:28:10,655 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 346
+16:28:10,720 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 346 entered
+16:28:10,913 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+16:28:10,985 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+16:28:11,172 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+16:28:11,226 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+16:28:11,403 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:28:11,404 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+16:28:14,336 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:28:14,336 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+16:57:26,660 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:57:26,794 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+16:57:29,550 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:57:29,551 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+16:57:29,934 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:57:29,935 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+16:57:30,140 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 9164
+16:57:30,185 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 9164 entered
+16:57:30,189 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering REDLGIDARC
+16:57:30,223 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - REDLGIDARC entered
+16:57:31,393 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:57:31,394 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:57:31,653 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+16:57:31,710 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+16:57:31,890 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+16:57:31,951 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+16:57:32,127 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 701
+16:57:32,190 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 701 entered
+16:57:32,383 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+16:57:32,435 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+16:57:32,624 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+16:57:32,682 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+16:58:14,600 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:58:14,737 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+16:58:17,483 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:58:17,483 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+16:58:17,886 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:58:17,886 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+16:58:18,087 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 4636
+16:58:18,131 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 4636 entered
+16:58:18,133 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering FKYRACNGNR
+16:58:18,168 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - FKYRACNGNR entered
+16:58:19,397 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:58:19,398 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:58:19,669 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+16:58:19,727 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+16:58:19,912 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+16:58:19,971 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+16:58:20,150 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 997
+16:58:20,208 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 997 entered
+16:58:20,396 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+16:58:20,454 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+16:58:20,644 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+16:58:20,700 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+16:58:20,879 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:58:20,880 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+16:58:23,815 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:58:23,815 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+16:58:23,872 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:58:23,872 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+16:58:50,348 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:58:50,494 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+16:58:53,590 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:58:53,591 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+16:58:53,996 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:58:53,997 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+16:58:56,856 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 6902
+16:58:56,907 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 6902 entered
+16:58:57,511 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering NCVTKCCALT
+16:58:57,584 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - NCVTKCCALT entered
+16:59:05,953 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:59:05,954 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:59:16,583 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+16:59:16,664 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+16:59:27,430 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+16:59:27,521 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+16:59:36,135 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 782
+16:59:36,217 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 782 entered
+16:59:45,797 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+16:59:45,878 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+16:59:52,892 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+16:59:52,974 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+16:59:58,114 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+16:59:58,114 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+17:00:00,981 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:00:00,981 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+17:00:01,148 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:00:01,148 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+17:00:45,535 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:00:45,668 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+17:00:48,386 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:00:48,387 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+17:00:48,714 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:00:48,714 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+17:00:48,924 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 531
+17:00:48,968 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 531 entered
+17:00:48,971 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering UBWZFCNISI
+17:00:49,013 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - UBWZFCNISI entered
+17:00:50,253 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:00:50,254 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+17:00:50,534 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+17:00:50,592 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+17:00:50,770 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+17:00:50,838 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+17:00:51,023 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 782
+17:00:51,086 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 782 entered
+17:00:51,276 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+17:00:51,340 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+17:00:51,532 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+17:00:51,587 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+17:00:51,763 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:00:51,763 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+17:00:52,358 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:00:52,358 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+17:00:54,393 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:00:54,394 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+17:01:33,793 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:01:33,924 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+17:01:36,658 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:01:36,660 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+17:01:37,055 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:01:37,055 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+17:01:37,262 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 1825
+17:01:37,306 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 1825 entered
+17:01:37,310 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering YCTRWVJTQG
+17:01:37,349 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - YCTRWVJTQG entered
+17:01:38,572 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:01:38,573 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+17:01:38,878 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+17:01:38,941 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+17:01:39,122 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+17:01:39,175 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+17:01:39,352 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 75
+17:01:39,406 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 75 entered
+17:01:39,598 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+17:01:39,654 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+17:01:39,839 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+17:01:39,894 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+17:01:40,068 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:01:40,069 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+17:01:43,013 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:01:43,013 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+17:01:45,202 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:01:45,203 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+17:04:18,063 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:04:18,193 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+17:04:20,997 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:04:20,998 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+17:04:21,377 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:04:21,378 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+17:04:21,602 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 3792
+17:04:21,646 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 3792 entered
+17:04:21,648 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering DEWEKEKOGV
+17:04:21,691 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - DEWEKEKOGV entered
+17:04:22,896 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:04:22,896 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+17:04:23,190 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+17:04:23,248 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+17:04:23,422 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+17:04:23,496 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+17:04:23,673 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 749
+17:04:23,732 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 749 entered
+17:04:23,916 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+17:04:23,979 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+17:04:24,159 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+17:04:24,217 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+17:04:24,390 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:04:24,391 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+17:04:27,178 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:04:27,179 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+17:04:29,258 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32Not visible after waiting for 3000 secondsObject reference not set to an instance of an object.
+17:04:29,259 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+17:12:11,589 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId: Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:12:11,718 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+17:12:14,358 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:12:14,359 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+17:12:14,740 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:12:14,740 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+17:12:14,961 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 4914
+17:12:15,010 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 4914 entered
+17:12:15,014 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering CLCLTIOKXE
+17:12:15,056 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - CLCLTIOKXE entered
+17:12:16,525 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:12:16,526 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+17:12:16,779 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+17:12:16,840 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+17:12:17,019 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+17:12:17,076 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+17:12:17,253 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 750
+17:12:17,312 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 750 entered
+17:12:17,498 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+17:12:17,559 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+17:12:17,742 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+17:12:17,802 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+17:12:17,972 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:12:17,972 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+17:12:20,768 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:12:20,769 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+17:12:22,832 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:12:22,833 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+17:35:13,696 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId: Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:35:13,826 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+17:35:16,556 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:35:16,557 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+17:35:16,994 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:35:16,994 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+17:35:17,218 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 1511
+17:35:17,270 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 1511 entered
+17:35:17,273 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering GDIRUYTFYE
+17:35:17,321 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - GDIRUYTFYE entered
+17:35:18,559 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:35:18,560 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+17:35:18,814 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+17:35:18,875 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+17:35:19,059 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+17:35:19,124 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+17:35:19,309 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 880
+17:35:19,371 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 880 entered
+17:35:19,563 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+17:35:19,618 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+17:35:19,799 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+17:35:19,862 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+17:35:20,040 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:35:20,040 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+17:35:22,933 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:35:22,934 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+17:35:24,998 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:35:24,999 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+17:38:51,273 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId: Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:38:51,428 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+17:38:54,313 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:38:54,314 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+17:38:54,716 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:38:54,717 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+17:38:54,947 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 3371
+17:38:54,998 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 3371 entered
+17:38:55,001 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering XEZQUSDYUJ
+17:38:55,050 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - XEZQUSDYUJ entered
+17:38:56,287 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:38:56,287 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+17:38:56,560 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+17:38:56,619 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+17:38:56,808 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+17:38:56,874 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+17:38:57,055 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 902
+17:38:57,118 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 902 entered
+17:38:57,313 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+17:38:57,374 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+17:38:57,568 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+17:38:57,624 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+17:38:57,799 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:38:57,799 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+17:39:01,096 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:39:01,097 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+17:42:47,139 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId: Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:42:47,278 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+17:42:50,186 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:42:50,186 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+17:42:50,574 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:42:50,574 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+17:42:50,789 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 1681
+17:42:50,831 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 1681 entered
+17:42:50,834 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering XFFFIKARNV
+17:42:50,881 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - XFFFIKARNV entered
+17:42:52,114 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:42:52,115 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+17:42:52,382 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+17:42:52,444 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+17:42:52,637 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+17:42:52,695 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+17:42:52,878 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 538
+17:42:52,934 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 538 entered
+17:42:53,126 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+17:42:53,190 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+17:42:53,378 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+17:42:53,440 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+17:42:53,625 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:42:53,626 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+17:42:56,533 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:42:56,534 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+17:44:44,454 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId: Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:44:44,589 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+17:44:47,485 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:44:47,486 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+17:44:47,864 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:44:47,864 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+17:44:48,068 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 7314
+17:44:48,113 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 7314 entered
+17:44:48,116 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering MQGAAAOSDI
+17:44:48,159 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - MQGAAAOSDI entered
+17:44:49,376 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:44:49,377 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+17:44:49,659 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+17:44:49,716 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+17:44:49,900 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+17:44:49,957 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+17:44:50,138 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 265
+17:44:50,196 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 265 entered
+17:44:50,385 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+17:44:50,439 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+17:44:50,633 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+17:44:50,690 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+17:44:50,866 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:44:50,867 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+17:44:53,747 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:44:53,748 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+17:48:46,556 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId: Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:48:46,692 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+17:48:49,436 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:48:49,437 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+17:48:49,818 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:48:49,818 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+17:48:50,018 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 3567
+17:48:50,063 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 3567 entered
+17:48:50,066 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering CXUVJPHGKS
+17:48:50,105 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - CXUVJPHGKS entered
+17:48:51,290 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:48:51,290 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+17:48:51,550 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+17:48:51,611 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+17:48:51,791 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+17:48:51,850 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+17:48:52,031 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 336
+17:48:52,088 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 336 entered
+17:48:52,279 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+17:48:52,335 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+17:48:52,525 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+17:48:52,581 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+17:48:52,761 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:48:52,761 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+17:48:55,707 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:48:55,707 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+17:55:38,900 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId: Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:55:39,037 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+17:55:41,929 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:55:41,930 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+17:55:42,328 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:55:42,328 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+17:55:42,545 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 9492
+17:55:42,594 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 9492 entered
+17:55:42,596 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering BHUQOTVQCD
+17:55:42,637 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - BHUQOTVQCD entered
+17:55:43,845 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:55:43,845 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+17:55:44,325 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+17:55:44,392 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+17:55:44,576 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+17:55:44,633 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+17:55:44,817 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 535
+17:55:44,876 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 535 entered
+17:55:45,068 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+17:55:45,123 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+17:55:45,309 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+17:55:45,366 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+17:55:45,549 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:55:45,549 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+17:55:48,498 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:55:48,499 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+17:57:06,547 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId: Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:57:06,686 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+17:57:09,563 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:57:09,564 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+17:57:09,895 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:57:09,896 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+17:57:10,112 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 4358
+17:57:10,152 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 4358 entered
+17:57:10,154 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering JNUDGTHCGO
+17:57:10,193 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - JNUDGTHCGO entered
+17:57:11,406 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:57:11,406 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+17:57:11,704 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+17:57:12,001 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+17:57:12,224 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+17:57:12,291 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+17:57:12,475 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 771
+17:57:12,542 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 771 entered
+17:57:12,733 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+17:57:12,790 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+17:57:12,980 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+17:57:13,042 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+17:57:13,220 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:57:13,220 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+17:57:16,115 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+17:57:16,115 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+23:15:15,508 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId: Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+23:15:15,648 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+23:15:18,545 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+23:15:18,545 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+23:15:19,248 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+23:15:19,248 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+23:15:19,458 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 9726
+23:15:19,502 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 9726 entered
+23:15:19,505 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering SWMWPSLUTQ
+23:15:19,548 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - SWMWPSLUTQ entered
+23:15:20,728 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+23:15:20,729 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+23:15:21,146 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Sandeep
+23:15:21,211 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Sandeep entered
+23:15:21,403 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Gupta
+23:15:21,461 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Gupta entered
+23:15:21,649 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 451
+23:15:21,705 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 451 entered
+23:15:21,901 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering Noida
+23:15:21,972 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Noida entered
+23:15:22,165 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - Entering 01012010
+23:15:22,226 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.SendTextInTextBox - 01012010 entered
+23:15:22,410 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+23:15:22,410 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+23:15:26,069 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+23:15:26,069 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+23:15:28,132 FATAL [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.WaitTillUIItemEnabled - UIItem : Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32 Not visible after waiting for 3000 seconds Object reference not set to an instance of an object.
+23:15:28,132 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32

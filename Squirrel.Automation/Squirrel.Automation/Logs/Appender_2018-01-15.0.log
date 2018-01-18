@@ -1,0 +1,292 @@
+12:10:36,471 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+12:10:38,513 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+12:10:40,252 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering Sandeep
+12:10:40,412 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Sandeep entered
+12:10:40,727 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering SPYVSQQW
+12:10:40,904 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - SPYVSQQW entered
+12:10:41,194 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 552
+12:10:41,367 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 552 entered
+12:10:41,652 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 30
+12:10:41,829 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 30 entered
+12:10:42,145 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+12:10:42,569 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+12:10:42,601 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:10:45,300 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+12:10:45,764 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 121
+12:10:45,923 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 121 entered
+12:10:46,201 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 111
+12:10:46,386 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 111 entered
+12:10:46,681 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 011110
+12:10:46,873 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 011110 entered
+12:10:47,511 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 12
+12:10:47,553 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 12 entered
+12:10:47,556 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+12:10:47,694 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 1
+12:10:47,736 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 1 entered
+12:10:47,737 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+12:10:47,764 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:10:47,788 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:10:49,025 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering AlternateName
+12:10:49,208 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - AlternateName entered
+12:10:49,559 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering OnScreenName
+12:10:49,753 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - OnScreenName entered
+12:10:52,712 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 3
+12:10:52,766 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 3 entered
+12:11:23,267 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+12:11:27,768 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+12:11:29,840 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+12:44:15,660 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+12:44:17,389 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+12:44:18,173 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering Sandeep
+12:44:18,225 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Sandeep entered
+12:44:18,502 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering SQXDDJYR
+12:44:18,668 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - SQXDDJYR entered
+12:44:18,944 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 21
+12:44:19,114 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 21 entered
+12:44:19,398 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 30
+12:44:19,571 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 30 entered
+12:44:19,876 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+12:44:20,259 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+12:44:20,285 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:44:23,031 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+12:44:23,458 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 121
+12:44:23,634 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 121 entered
+12:44:23,916 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 111
+12:44:23,971 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 111 entered
+12:44:24,255 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 011110
+12:44:24,422 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 011110 entered
+12:44:25,053 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 12
+12:44:25,097 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 12 entered
+12:44:25,100 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+12:44:25,239 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 1
+12:44:25,276 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 1 entered
+12:44:25,279 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+12:44:25,322 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:44:25,380 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:44:26,587 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering AlternateName
+12:44:26,642 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - AlternateName entered
+12:44:26,940 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering OnScreenName
+12:44:27,121 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - OnScreenName entered
+12:44:30,054 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 3
+12:44:30,110 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 3 entered
+12:45:00,407 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+12:45:04,608 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+12:45:06,794 INFO [Sample tests logger] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+12:46:32,282 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+12:46:33,898 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+12:46:34,620 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering Sandeep
+12:46:34,676 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Sandeep entered
+12:46:34,942 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering GBIMQCNA
+12:46:35,116 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - GBIMQCNA entered
+12:46:35,399 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 45
+12:46:35,596 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 45 entered
+12:46:35,886 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 30
+12:46:36,088 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 30 entered
+12:46:36,419 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+12:46:36,776 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+12:46:36,807 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:46:39,246 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+12:46:39,659 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 121
+12:46:39,839 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 121 entered
+12:46:40,119 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 111
+12:46:40,299 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 111 entered
+12:46:40,579 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 011110
+12:46:40,765 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 011110 entered
+12:46:41,382 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 12
+12:46:41,427 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 12 entered
+12:46:41,431 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+12:46:41,574 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 1
+12:46:41,614 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 1 entered
+12:46:41,616 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+12:46:41,656 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:46:41,689 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:46:42,923 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering AlternateName
+12:46:42,975 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - AlternateName entered
+12:46:43,271 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering OnScreenName
+12:46:43,450 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - OnScreenName entered
+12:46:46,260 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 3
+12:46:46,317 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 3 entered
+12:47:16,609 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+12:47:21,163 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+12:47:33,034 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+12:52:02,633 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+12:52:04,406 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+12:52:05,308 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering Sandeep
+12:52:05,404 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Sandeep entered
+12:52:05,707 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering VBATXISB
+12:52:05,898 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - VBATXISB entered
+12:52:06,189 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 502
+12:52:06,243 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 502 entered
+12:52:06,533 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 30
+12:52:06,598 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 30 entered
+12:52:06,917 INFO [Squirrel.Automation.Extensions.WindowExtensions] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+12:53:28,239 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+12:53:30,062 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+12:53:30,869 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering Sandeep
+12:53:30,928 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Sandeep entered
+12:53:31,203 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering CYUENFBQ
+12:53:31,378 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - CYUENFBQ entered
+12:53:31,663 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 761
+12:53:31,840 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 761 entered
+12:53:32,150 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 30
+12:53:32,210 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 30 entered
+12:53:32,525 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+12:53:32,921 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+12:53:32,967 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:53:36,055 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+12:53:36,390 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 121
+12:53:36,449 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 121 entered
+12:53:36,739 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 111
+12:53:36,797 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 111 entered
+12:53:37,094 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 011110
+12:53:37,257 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 011110 entered
+12:53:37,895 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 12
+12:53:37,960 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 12 entered
+12:53:37,964 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+12:53:38,112 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 1
+12:53:38,165 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 1 entered
+12:53:38,167 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+12:53:38,198 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:53:38,224 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:53:39,454 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering AlternateName
+12:53:39,653 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - AlternateName entered
+12:53:40,022 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering OnScreenName
+12:53:40,307 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - OnScreenName entered
+12:53:43,291 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 3
+12:53:43,368 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 3 entered
+12:54:13,675 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+12:54:17,359 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+12:54:19,440 INFO [C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\WindowExtensions.cs] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+12:54:54,384 INFO [] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+12:54:56,199 INFO [] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+12:54:57,086 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering Sandeep
+12:54:57,145 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Sandeep entered
+12:54:57,427 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering RBXQNLKW
+12:54:57,610 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - RBXQNLKW entered
+12:54:57,896 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 153
+12:54:58,088 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 153 entered
+12:54:58,385 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 30
+12:54:58,444 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 30 entered
+12:54:58,770 INFO [] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+12:54:59,209 INFO [] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+12:54:59,240 INFO [] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:55:01,524 INFO [] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+12:55:01,860 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 121
+12:55:02,046 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 121 entered
+12:55:02,449 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 111
+12:55:02,530 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 111 entered
+12:55:02,834 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 011110
+12:55:03,004 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 011110 entered
+12:55:03,714 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 12
+12:55:03,743 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 12 entered
+12:55:03,747 INFO [] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+12:55:03,893 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 1
+12:55:03,938 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 1 entered
+12:55:03,939 INFO [] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+12:55:03,976 INFO [] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:55:04,001 INFO [] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+12:55:05,139 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering AlternateName
+12:55:05,214 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - AlternateName entered
+12:55:05,528 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering OnScreenName
+12:55:05,585 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - OnScreenName entered
+12:55:08,499 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - Entering 3
+12:55:08,571 INFO [] Squirrel.Automation.Extensions.WindowExtensions.EnterTextInTextBox - 3 entered
+12:55:38,872 INFO [] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+12:55:40,972 INFO [] Squirrel.Automation.Extensions.WindowExtensions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+12:55:55,536 INFO [test logger ] Squirrel.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+13:09:43,956 DEBUG [Test file logger] Squirrel.Automation.Tests.SampleTest.LoggerTest - lowest severity message
+13:09:43,968 INFO [Test file logger] Squirrel.Automation.Tests.SampleTest.LoggerTest - Severity level 2 - higher than debug
+13:09:43,968 WARN [Test file logger] Squirrel.Automation.Tests.SampleTest.LoggerTest - Severity level3
+20:38:58,586 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:39:14,956 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+20:39:54,659 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:40:04,448 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+20:40:33,107 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:40:39,020 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+20:42:11,369 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:42:11,551 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+20:42:18,725 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:42:18,726 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+20:42:21,565 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:42:21,566 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+20:46:40,043 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:46:40,193 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+20:47:14,239 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:47:14,382 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+20:47:19,172 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:47:19,175 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+20:47:21,642 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:47:21,646 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+20:48:27,674 ERROR [Common Functions] Squirrel.Automation.Extensions.Functions.SetText - TestStack.White.AutomationException: The control is not focusable.
+20:48:42,149 ERROR [Common Functions] Squirrel.Automation.Extensions.Functions.SetText - TestStack.White.AutomationException: The control is not focusable.
+   at Squirrel.Automation.Extensions.Functions.SetText(IUIItem uiItem, String value) in C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\Functions.cs:line 268
+20:49:02,196 ERROR [Common Functions] Squirrel.Automation.Extensions.Functions.SetText - TestStack.White.AutomationException: The control is not focusable.
+20:49:15,875 ERROR [Common Functions] Squirrel.Automation.Extensions.Functions.SetText - <log4net.Error>Exception during StringFormat: Index (zero based) must be greater than or equal to zero and less than the size of the argument list. <format>Can not enter text in  Textbox : {0} Label. AutomationId:65535, Name:Badge Number, ControlType:text, FrameworkId:Win32The control is not focusable.</format><args>{}</args></log4net.Error>
+20:49:34,430 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:49:34,431 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+20:49:36,817 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:49:36,819 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+20:49:43,308 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:49:43,310 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+20:53:43,515 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:53:43,670 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+20:53:49,219 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:53:49,222 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+20:53:51,263 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:53:51,264 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+20:54:20,132 ERROR [Common Functions] Squirrel.Automation.Extensions.Functions.SetText - TestStack.White.AutomationException: The control is not focusable.
+20:54:30,654 ERROR [Common Functions] Squirrel.Automation.Extensions.Functions.SetText - Can not enter text in  Textbox : Label. AutomationId:65535, Name:Badge Number, ControlType:text, FrameworkId:Win32The control is not focusable.
+20:55:30,227 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:55:30,228 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+20:55:31,738 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:55:31,739 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+20:55:36,290 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:55:36,291 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+20:57:44,181 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:57:44,316 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+20:57:45,655 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:57:45,657 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+20:57:46,030 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:57:46,030 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+20:57:46,216 ERROR [Common Functions] Squirrel.Automation.Extensions.Functions.SetText - TestStack.White.AutomationException: The control is not focusable.
+20:57:47,505 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:57:47,509 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+20:57:47,732 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:57:47,732 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+20:57:48,233 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:57:48,234 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+20:59:13,317 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:59:13,455 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+20:59:14,757 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:59:14,758 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+20:59:15,133 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:59:15,133 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+20:59:15,436 ERROR [Common Functions] Squirrel.Automation.Extensions.Functions.SetText - TestStack.White.AutomationException: The control is not focusable.
+20:59:16,667 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:59:16,668 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+20:59:16,745 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:59:16,745 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+20:59:17,241 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+20:59:17,242 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+21:00:55,953 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+21:00:56,090 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+21:00:57,344 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+21:00:57,345 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+21:00:57,722 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+21:00:57,722 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+21:00:58,005 ERROR [Common Functions] Squirrel.Automation.Extensions.Functions.SetText - TestStack.White.AutomationException: The control is not focusable.
+21:00:58,006 ERROR [Common Functions] Squirrel.Automation.Extensions.Functions.SetText - Can not enter text in  Textbox : Label. AutomationId:65535, Name:Badge Number, ControlType:text, FrameworkId:Win32TestStack.White.AutomationException: The control is not focusable.
+   at Squirrel.Automation.Extensions.Functions.SetText(IUIItem uiItem, String value) in C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\Functions.cs:line 268
+21:00:59,204 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+21:00:59,205 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+21:00:59,292 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+21:00:59,293 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+21:00:59,771 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+21:00:59,771 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+21:04:03,435 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+21:04:03,571 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+21:04:04,906 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+21:04:04,908 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+21:04:05,288 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+21:04:05,289 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnEnabledElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+21:04:05,474 ERROR [Common Functions] Squirrel.Automation.Extensions.Functions.SetText - TestStack.White.AutomationException: The control is not focusable.

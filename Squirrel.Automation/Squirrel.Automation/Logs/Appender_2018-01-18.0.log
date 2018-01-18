@@ -1,0 +1,41 @@
+16:06:30,326 INFO [Test file logger] Squirrel.Automation.Tests.SampleTest.TestSetup - Setup method
+16:06:31,119 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+16:06:31,178 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+16:06:32,188 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+16:06:33,083 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+16:06:33,300 ERROR [Common Functions] Squirrel.Automation.Extensions.Functions.SelectDropDownOption - TestStack.White.AutomationException: The value ssis not present in the drop-down
+   at Squirrel.Automation.Extensions.Functions.SelectDropDownOption(ComboBox comboBox, String option) in C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\Squirrel.Automation\Squirrel.Automation\Extensions\Functions.cs:line 198
+16:06:34,275 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:06:35,182 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+16:06:37,135 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+16:06:39,277 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+16:06:45,818 INFO [Test file logger] Squirrel.Automation.Tests.SampleTest.TestSetup - Setup method
+16:06:46,974 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+16:06:47,026 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+16:06:48,298 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+16:06:49,787 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+16:06:50,015 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+16:06:50,041 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:06:51,660 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+16:06:52,660 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+16:06:52,717 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+16:06:52,741 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:06:52,762 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:06:57,348 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+16:07:00,202 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+16:07:02,350 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+16:07:08,865 INFO [Test file logger] Squirrel.Automation.Tests.SampleTest.TestSetup - Setup method
+16:07:08,866 DEBUG [Test file logger] Squirrel.Automation.Tests.SampleTest.LoggerTest - lowest severity message
+16:07:08,866 INFO [Test file logger] Squirrel.Automation.Tests.SampleTest.LoggerTest - Severity level 2 - higher than debug
+16:07:08,867 WARN [Test file logger] Squirrel.Automation.Tests.SampleTest.LoggerTest - Severity level3
+16:07:08,867 FATAL [Test file logger] Squirrel.Automation.Tests.SampleTest.LoggerTest - Highest fatal
+16:07:15,373 INFO [Test file logger] Squirrel.Automation.Tests.SampleTest.TestSetup - Setup method
+16:07:15,987 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Menu. AutomationId:Item 30301, Name:Customize, ControlType:menu item, FrameworkId:Win32
+16:07:23,529 INFO [Test file logger] Squirrel.Automation.Tests.SampleTest.TestSetup - Setup method
+16:07:24,117 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Menu. AutomationId:Item 30301, Name:Customize, ControlType:menu item, FrameworkId:Win32
+16:07:26,138 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Close, Name:Close, ControlType:button, FrameworkId:Win32
+16:07:32,685 INFO [Test file logger] Squirrel.Automation.Tests.SampleTest.TestSetup - Setup method
+16:07:32,718 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemVisible - Waiting 3 seconds until element is visible.
+16:07:32,753 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Close, Name:Close, ControlType:button, FrameworkId:Win32
+16:07:42,192 INFO [Test file logger] Squirrel.Automation.Tests.SampleTest.TestSetup - Setup method
+16:07:42,796 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Menu. AutomationId:Item 57665, Name:Exit, ControlType:menu item, FrameworkId:Win32

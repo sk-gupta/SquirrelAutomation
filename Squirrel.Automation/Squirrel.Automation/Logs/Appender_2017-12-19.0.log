@@ -1,0 +1,40 @@
+23:16:04,663 DEBUG [NonParallelWorker] App.Automation.Tests.SampleTest.LoggerTest - lowest severity message
+23:16:04,676 INFO [NonParallelWorker] App.Automation.Tests.SampleTest.LoggerTest - Severity level 2 - higher than debug
+23:16:04,677 WARN [NonParallelWorker] App.Automation.Tests.SampleTest.LoggerTest - Severity level3
+23:16:04,677 INFO [NonParallelWorker] App.Automation.Tests.SampleTest.LoggerTest - OpenNewsApp Test Case Failed
+23:16:04,677 ERROR [NonParallelWorker] App.Automation.Tests.SampleTest.LoggerTest - Attempted to divide by zero.
+System.DivideByZeroException: Attempted to divide by zero.
+   at App.Automation.Tests.SampleTest.LoggerTest() in C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\App.Automation\App.Automation\Tests\SampleTest.cs:line 70
+23:16:04,679 FATAL [NonParallelWorker] App.Automation.Tests.SampleTest.LoggerTest - Highest fatal
+23:16:50,735 DEBUG [NonParallelWorker][test] App.Automation.Tests.SampleTest.LoggerTest - lowest severity message
+23:16:50,750 INFO [NonParallelWorker][test] App.Automation.Tests.SampleTest.LoggerTest - Severity level 2 - higher than debug
+23:16:50,751 WARN [NonParallelWorker][test] App.Automation.Tests.SampleTest.LoggerTest - Severity level3
+23:16:50,751 INFO [NonParallelWorker][test] App.Automation.Tests.SampleTest.LoggerTest - OpenNewsApp Test Case Failed
+23:16:50,751 ERROR [NonParallelWorker][test] App.Automation.Tests.SampleTest.LoggerTest - Attempted to divide by zero.
+System.DivideByZeroException: Attempted to divide by zero.
+   at App.Automation.Tests.SampleTest.LoggerTest() in C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\App.Automation\App.Automation\Tests\SampleTest.cs:line 70
+23:16:50,753 FATAL [NonParallelWorker][test] App.Automation.Tests.SampleTest.LoggerTest - Highest fatal
+23:18:34,653 DEBUG [NonParallelWorker][Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - lowest severity message
+23:18:34,666 INFO [NonParallelWorker][Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - Severity level 2 - higher than debug
+23:18:34,667 WARN [NonParallelWorker][Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - Severity level3
+23:18:34,667 INFO [NonParallelWorker][Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - OpenNewsApp Test Case Failed
+23:18:34,667 ERROR [NonParallelWorker][Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - Attempted to divide by zero.
+System.DivideByZeroException: Attempted to divide by zero.
+   at App.Automation.Tests.SampleTest.LoggerTest() in C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\App.Automation\App.Automation\Tests\SampleTest.cs:line 70
+23:18:34,670 FATAL [NonParallelWorker][Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - Highest fatal
+2017-12-19 23:22:11,898 DEBUG [Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - lowest severity message
+2017-12-19 23:22:11,911 INFO [Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - Severity level 2 - higher than debug
+2017-12-19 23:22:11,912 WARN [Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - Severity level3
+2017-12-19 23:22:11,912 INFO [Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - OpenNewsApp Test Case Failed
+2017-12-19 23:22:11,912 ERROR [Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - Attempted to divide by zero.
+System.DivideByZeroException: Attempted to divide by zero.
+   at App.Automation.Tests.SampleTest.LoggerTest() in C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\App.Automation\App.Automation\Tests\SampleTest.cs:line 70
+2017-12-19 23:22:11,914 FATAL [Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - Highest fatal
+23:41:29,675 DEBUG [Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - lowest severity message
+23:41:29,689 INFO [Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - Severity level 2 - higher than debug
+23:41:29,690 WARN [Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - Severity level3
+23:41:29,690 INFO [Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - OpenNewsApp Test Case Failed
+23:41:29,690 ERROR [Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - Attempted to divide by zero.
+System.DivideByZeroException: Attempted to divide by zero.
+   at App.Automation.Tests.SampleTest.LoggerTest() in C:\Users\sandeepkumar.gupta\Documents\Visual Studio 2015\PractiseProjects\App.Automation\App.Automation\Tests\SampleTest.cs:line 70
+23:41:29,692 FATAL [Sample tests logger] App.Automation.Tests.SampleTest.LoggerTest - Highest fatal

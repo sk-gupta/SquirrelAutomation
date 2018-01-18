@@ -1,0 +1,24 @@
+16:31:11,695 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+16:38:25,655 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+16:38:25,797 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+16:38:33,653 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+16:38:38,974 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1069, Name:Add, ControlType:button, FrameworkId:Win32
+16:38:40,722 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:38:43,028 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+16:38:48,591 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+16:38:50,760 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+16:38:58,388 DEBUG [Common Functions] Squirrel.Automation.Extensions.Functions.WaitTillUIItemEnabled - Waiting 3 seconds until element is enabled.
+16:38:58,539 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Hyperlink. AutomationId:, Name:Daily Setup, ControlType:hyperlink, FrameworkId:
+16:39:01,320 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Item 32542, Name:New Record, ControlType:button, FrameworkId:Win32
+16:39:04,024 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+16:39:04,404 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+16:39:04,439 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:39:06,918 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+16:39:08,763 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:32343, Name:, ControlType:button, FrameworkId:Win32
+16:39:08,830 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:30281, Name:1, ControlType:button, FrameworkId:Win32
+16:39:08,859 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:39:08,887 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:OK, ControlType:button, FrameworkId:Win32
+16:39:43,611 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Item 32545, Name:Save, ControlType:button, FrameworkId:Win32
+16:39:48,257 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:Item 32305, Name:Explorer Window, ControlType:button, FrameworkId:Win32
+16:39:50,352 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Button. AutomationId:1, Name:Yes, ControlType:button, FrameworkId:Win32
+18:39:34,685 INFO [Common Functions] Squirrel.Automation.Extensions.Functions.ClickOnElement - Clicking on Menu. AutomationId:Item 30301, Name:Customize, ControlType:menu item, FrameworkId:Win32

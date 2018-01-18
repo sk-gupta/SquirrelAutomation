@@ -1,0 +1,2 @@
+12:34:42,596 INFO [Sample tests logger] App.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on Menu. AutomationId:MenuOptions, Name:Options, ControlType:menu item, FrameworkId:WPF
+12:34:46,223 INFO [Sample tests logger] App.Automation.Extensions.WindowExtensions.ClickOnElement - Clicking on WPFLabel. AutomationId:, Name:Updates, ControlType:text, FrameworkId:WPF
