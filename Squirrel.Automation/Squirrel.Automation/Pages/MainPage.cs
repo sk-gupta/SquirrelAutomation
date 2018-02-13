@@ -21,28 +21,34 @@ namespace Squirrel.Automation.Pages
 {
     public class MainPage
     {
-        public Window MainWindow;
+        private Window _mainWindow;
+        private Window _squirrelSystemMessageWindow;
+
         //public static SearchCriteria GeneralTab = SearchCriteria.ByControlType(ControlType.TabItem).AndAutomationId("UpdateTab");
         private SearchCriteria _dailySetup = SearchCriteria.ByText("Daily Setup");//      ByControlType(ControlType.Text).AndByText("Daily Setup");
         private SearchCriteria _closeButton = SearchCriteria.ByAutomationId("Close");
-        private Window _squirrelSystemMessageWindow;
+        private SearchCriteria _yesButton = SearchCriteria.ByAutomationId("1");
 
-
+        #region Toolbar
+        public static SearchCriteria _newRecordButton = SearchCriteria.ByAutomationId("Item 32542");
+        public static SearchCriteria _saveRecordButton = SearchCriteria.ByAutomationId("Item 32545");
+        public static SearchCriteria _deleteRecordButton = SearchCriteria.ByAutomationId("Item 32543");
+        public static SearchCriteria _explorerWindow = SearchCriteria.ByAutomationId("Item 32305");
+        #endregion
+        
         public MainPage(Window window)
         {
-            MainWindow = window;
+            _mainWindow = window;
         }
 
-        //BaseSetUp baseSetup = new BaseSetUp();
         public Menu GetMenuItem(string menuName)
         {
             //Menu bar
-            MenuBar menubar = MainWindow.MenuBar; //   Tests.  test_mainWindow.MenuBar;
+            MenuBar menubar = _mainWindow.MenuBar;
 
             //Selecting and click menu items
-            //Menu menuitem = menubar.MenuItem("Settings", "Preferences...");
+            //Menu menuitem = menubar.MenuItem("Settings", "Preferences..."); or
             Menu menuItem = menubar.MenuItemBy(SearchCriteria.ByText(menuName));
-            /// menuitem.Click(); 
 
             //Searching and selecting menu items
             //menubar.MenuItemBy(SearchCriteria.ByText("Tools"), SearchCriteria.ByText("Change language")).Click();   //level1, level2
@@ -51,32 +57,28 @@ namespace Squirrel.Automation.Pages
 
         public void GetSubMenuItem(Menu menuItem, string childMenuItem)
         {
-            UIItemList<Menu> menuItems = menuItem.ChildMenus;
+            menuItem.SubMenu(childMenuItem).Click();
+            Wait.For(TimeSpan.FromMilliseconds(100));
 
-            foreach (Menu menu in menuItems)
-            {
-                if (menu.Name == childMenuItem)
-                {
-                    Functions.ClickOnElement(menu);
-                }
-            }
+            //Use below code if above code doesn't work
+
+            //UIItemList<Menu> menuItems = menuItem.ChildMenus;
+            //foreach (Menu menu in menuItems)
+            //{
+            //    if (menu.Name == childMenuItem)
+            //    {
+            //        Functions.ClickOnElement(menu);
+            //    }
+            //}
         }
-
-        public void SelectTabInAWindow()
-        {
-            //Window optionsWindow = mainWindow.ModalWindow("Options");
-            //Tab tab = optionsWindow.Get<Tab>(SearchCriteria.ByControlType(ControlType.Tab).AndIndex(0));
-            //var tabitem = tab.GetElement(SearchCriteria.ByControlType(ControlType.TabItem).AndAutomationId("Update Tab"));
-            //tab.SelectTabPage("UpdateTab");
-            //TabPage
-            //optionsWindow.Get(GeneralTab).Click();
-        }
-
+        
         public void CloseApplicationUsingMenu()
         {
             //click on X button
-            Functions.WaitTillUIItemVisible(MainWindow.Get<Button>(_closeButton));
-            Functions.ClickOnElement(MainWindow.Get<Button>(_closeButton));
+            Functions.WaitTillUIItemVisible(_mainWindow, _mainWindow.Get<Button>(_closeButton));
+            Functions.ClickOnElement(_mainWindow.Get<Button>(_closeButton));
+            Wait.For(TimeSpan.FromSeconds(1));
+            ExitApp();
         }
 
         public void CloseApplicationUsingX()
@@ -86,21 +88,22 @@ namespace Squirrel.Automation.Pages
 
             //click on Exit SourceTree option
             GetSubMenuItem(fileMenu, "Exit");
+            Wait.For(TimeSpan.FromSeconds(1));
+            ExitApp();
         }
 
         public void ClickDailySetup()
         {
-            IUIItem dailySetup = MainWindow.Get(_dailySetup);
-            Functions.WaitTillUIItemEnabled(dailySetup);
-            Functions.ClickOnElement(MainWindow.Get(_dailySetup));
+            Functions.WaitTillUIItemVisible(_mainWindow,_mainWindow.Get(_dailySetup));
+            IUIItem dailySetup = _mainWindow.Get(_dailySetup);
+            Functions.WaitTillUIItemEnabled(_mainWindow,dailySetup);
+            Functions.ClickOnElement(_mainWindow.Get(_dailySetup));
         }
-
-
+        
         public void ExitApp()
         {
-            _squirrelSystemMessageWindow = Functions.GetModelWindow(MainWindow, TestData.SquirrelSystemMessageDialog);
-            //Functions.ClickOnElement(_squirrelSystemMessageWindow.Get<Button>(_yesButton));
+            _squirrelSystemMessageWindow = Functions.GetModelWindow(_mainWindow, TestData.SquirrelSystemMessageDialog);
+            Functions.ClickOnElement(_squirrelSystemMessageWindow.Get<Button>(_yesButton));
         }
-
     }
 }

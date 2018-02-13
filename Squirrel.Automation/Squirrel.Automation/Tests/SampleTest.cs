@@ -1,55 +1,53 @@
 ﻿using System;
-using System.IO;
-using System.Threading;
 using NUnit.Framework;
-using TestStack.White.Factory;
-using TestStack.White.Finder;
-//using System.Windows.Automation;
-using System.Diagnostics;
-using TestStack.White.UIItems.WindowStripControls;
-using System.Collections.Generic;
 using Squirrel.Automation.Pages;
 using TestStack.White.UIItems.MenuItems;
 using Squirrel.Automation.Helpers;
-using AventStack.ExtentReports;
-using AventStack.ExtentReports.Reporter;
 using Squirrel.Automation.Test_Data;
-//using RelevantCodes.ExtentReports;
 using Squirrel.Automation.Extensions;
-using TestStack.White.UIItems;
-using TestStack.White.UIItems.Finders;
 
 [assembly: log4net.Config.XmlConfigurator(Watch = true)]
 
 namespace Squirrel.Automation.Tests
-{   
+{
     [TestFixture]
     public class SampleTest : TestSetUp
     {
         private static readonly log4net.ILog _Logger = LogHelper.GetLogger("Test file logger");
 
-        private MainPage _mainPage;
-        private Options _optionsPage;
-        private DailySetup DailySetup;
-        private EmployeeSetup EmployeeSetupPage;
-        private MenuEntrySetup MenuEntrySetup;
-        private Customizer CustomizerPage;
-        
+        private static MainPage _mainPage;
+        private static DailySetupPage DailySetup;
+        private static EmployeeSetupPage EmployeeSetupPage;
+        private static MenuEntrySetupPage MenuEntrySetup;
+        private static CustomizerPage CustomizerPage;
+
+        [OneTimeSetUp]
+        public static void OneTimeSetup()
+        {
+            _Logger.Info("Setup method");
+        }
 
         [SetUp]
         public void TestSetup()
         {
-            _mainPage = new MainPage(MainWindow);
-            DailySetup = new DailySetup(MainWindow);
-            EmployeeSetupPage = new EmployeeSetup(MainWindow);
-            MenuEntrySetup = new MenuEntrySetup(MainWindow);
-            CustomizerPage = new Customizer(MainWindow);
+             _mainPage = new MainPage(MainWindow);
+
+            if (DailySetup == null)
+                DailySetup = new DailySetupPage(MainWindow);
+            if (EmployeeSetupPage == null)
+                EmployeeSetupPage = new EmployeeSetupPage(MainWindow);
+            if (MenuEntrySetup == null)
+                MenuEntrySetup = new MenuEntrySetupPage(MainWindow);
+            if (CustomizerPage == null)
+                CustomizerPage = new CustomizerPage(MainApplication);
+
             _Logger.Info("Setup method");
         }
 
         [TearDown]
         public void TestTearDown()
         {
+            _mainPage.ExitApp();
             Console.WriteLine(TestContext.CurrentContext.Test.Name);
         }
 
@@ -74,7 +72,7 @@ namespace Squirrel.Automation.Tests
             _test.Info("Save and Exit employee form");
             DailySetup.SaveAndExitForm();
         }
-        
+
         [Test]
         public void AddMenuEntry()
         {
@@ -93,21 +91,13 @@ namespace Squirrel.Automation.Tests
             _test.Info("Save and Exit entry setup form");
             DailySetup.SaveAndExitForm();
         }
-        
+
         [Test]
-        public void SelectMenuItem ()
+        public void SelectMenuItem()
         {
-            //UIItem uiitem = _mainWindow.Get(SearchCriteria.ByAutomationId("");
-            ////var test = extent. ("OpenNewsApp", "This test case open and verifies the 'News' app");
-            ////_test.Log(LogStatus.Info, "Execution of SearchNews test case started");
-            ////test.Log(LogStatus.Info, "Clicking the search icon");
             Menu menuItem = _mainPage.GetMenuItem(TestData.ToolsMenu);
             _mainPage.GetSubMenuItem(menuItem, TestData.CustomizeSubMenu);
             Wait.For(TimeSpan.FromSeconds(1));
-            //Thread.Sleep(3000);
-            //optionsPage = new Options(_mainWindow);
-            //optionsPage.ClickUpdateTab();
-            //optionsPage.ClickAllTabsOneByOne();
         }
 
         [Test]
@@ -144,7 +134,7 @@ namespace Squirrel.Automation.Tests
             //var i = 0;
             //try
             //{
-               // var num = 1 / i;
+            // var num = 1 / i;
             //}
             //catch (DivideByZeroException ex)
             //{

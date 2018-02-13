@@ -10,12 +10,6 @@ using TestStack.White.Finder;
 using System.Windows.Automation;
 using System.Diagnostics;
 using TestStack.White.UIItems.Finders;
-using TestStack.White.UIItems.WindowStripControls;
-using Squirrel.Automation.Tests;
-using TestStack.White.UIItems.MenuItems;
-using TestStack.White.UIItems.TabItems;
-using System.Collections.Generic;
-using Squirrel.Automation.Extensions;
 
 namespace Squirrel.Automation.Pages
 {

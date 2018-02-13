@@ -14,20 +14,16 @@ using Squirrel.Automation.Test_Data;
 using System.Drawing.Imaging;
 using TestStack.White.UIItems.ListBoxItems;
 using TestStack.White.Factory;
+using System.Text;
+using System.Collections.Generic;
+using TestStack.White.UIItems.Finders;
 
 namespace Squirrel.Automation.Extensions
 {
     public class Functions
     {
-        private static Window _Window = Tests.TestSetUp.MainWindow;
-
-        Functions()
-        { }
-
+        // private static Window _Window = Tests.TestSetUp.MainWindow;
         private static readonly log4net.ILog _Logger = LogHelper.GetLogger("Common Functions");
-        //public static readonly int MonthsForProcurementDetails = ConfigurationManager.GetSection.Equals  AppSettings["MonthsForProcurementDetails"];
-        //NameValueCollection PostSetting = ConfigurationManager.GetSection("BlogGroup/PostSetting") as NameValueCollection ;
-
         private AutomationElement _automationElement;
 
         public static void ClickOnElement(IUIItem uiItem)
@@ -62,8 +58,8 @@ namespace Squirrel.Automation.Extensions
             }
         }
 
-        //visible on the screen
-        public static void WaitTillUIItemVisible(IUIItem uiItem, int? timeoutSecs = null)
+        //Visible on the screen
+        public static void WaitTillUIItemVisible(Window window, IUIItem uiItem, int? timeoutSecs = null)
         {
             int busyTimeout = int.Parse(CoreAppXmlConfiguration.Instance.BusyTimeout().TotalSeconds.ToString());
             timeoutSecs = new int?(timeoutSecs ?? busyTimeout);
@@ -75,7 +71,7 @@ namespace Squirrel.Automation.Extensions
 
             try
             {
-                _Window.WaitTill(delegate () { return uiItem.Visible; }, TimeSpan.FromSeconds((double)timeoutSecs));
+                window.WaitTill(delegate () { return uiItem.Visible; }, TimeSpan.FromSeconds((double)timeoutSecs));
             }
             catch (Exception e)
             {
@@ -84,8 +80,8 @@ namespace Squirrel.Automation.Extensions
             }
         }
 
-        //uiitem enabled or not
-        public static void WaitTillUIItemEnabled(IUIItem uiItem, int? timeoutSecs = null)
+        //Enabled or not
+        public static void WaitTillUIItemEnabled(Window window, IUIItem uiItem, int? timeoutSecs = null)
         {
             string s = CoreAppXmlConfiguration.Instance.BusyTimeout().Seconds.ToString();
             int busyTimeout = int.Parse(s);
@@ -98,7 +94,7 @@ namespace Squirrel.Automation.Extensions
 
             try
             {
-                _Window.WaitTill(delegate () { return uiItem.Enabled; }, TimeSpan.FromSeconds((double)timeoutSecs));
+                window.WaitTill(delegate () { return uiItem.Enabled; }, TimeSpan.FromSeconds((double)timeoutSecs));
             }
             catch (Exception e)
             {
@@ -106,8 +102,8 @@ namespace Squirrel.Automation.Extensions
             }
         }
 
-        //that indicates whether the element has keyboard focus
-        public static void WaitTillUIItemFocused(IUIItem uiItem, int? timeoutSecs = null)
+        //Indicates whether the element has keyboard focus
+        public static void WaitTillUIItemFocused(Window window, IUIItem uiItem, int? timeoutSecs = null)
         {
             int busyTimeout = int.Parse(CoreAppXmlConfiguration.Instance.BusyTimeout().ToString());
             timeoutSecs = new int?(timeoutSecs ?? busyTimeout);
@@ -119,7 +115,7 @@ namespace Squirrel.Automation.Extensions
 
             try
             {
-                _Window.WaitTill(delegate () { return uiItem.IsFocussed; }, TimeSpan.FromSeconds((double)timeoutSecs));
+                window.WaitTill(delegate () { return uiItem.IsFocussed; }, TimeSpan.FromSeconds((double)timeoutSecs));
             }
             catch (Exception e)
             {
@@ -133,8 +129,6 @@ namespace Squirrel.Automation.Extensions
             {
                 checkBox.Select();
             }
-           // Assert.That(checkBox.IsSelected, Is.True);
-            //Assert.That(checkBox.Checked, Is.True);
         }
 
         public static void UnSelectCheckBox(CheckBox checkBox)
@@ -143,8 +137,6 @@ namespace Squirrel.Automation.Extensions
             {
                 checkBox.UnSelect();
             }
-            //Assert.That(checkBox.IsSelected, Is.False);
-            //Assert.That(checkBox.Checked, Is.False);
         }
 
         public static void SelectRadioButton(RadioButton radioButton)
@@ -160,7 +152,6 @@ namespace Squirrel.Automation.Extensions
             {
                 _Logger.Error(ex);
             }
-            //Assert.That(radioButton.IsSelected, Is.True);
         }
 
         public static void CheckUncheckTristateCheckBox(CheckBox checkBox)
@@ -169,10 +160,8 @@ namespace Squirrel.Automation.Extensions
             {
                 checkBox.State = ToggleState.On;
             }
-            //Assert.That(checkBox.State, Is.EqualTo(ToggleState.On));
             checkBox.State = ToggleState.On;
             checkBox.State = ToggleState.Off;
-            //Assert.That(checkBox.State, Is.EqualTo(ToggleState.Off));
         }
 
         public static void SelectDropDownOption(ComboBox comboBox, string option)
@@ -205,7 +194,6 @@ namespace Squirrel.Automation.Extensions
                 _Logger.Error(ex);
                 throw ex;
             }
-            //Assert.That(radioButton.IsSelected, Is.True);
         }
 
         public void CopyTextFromTextBox(Window window, TextBox textBox)
@@ -228,7 +216,6 @@ namespace Squirrel.Automation.Extensions
                 attachedKeyboard.Enter("a");
                 attachedKeyboard.LeaveKey(KeyboardInput.SpecialKeys.CONTROL);
                 attachedKeyboard.PressSpecialKey(KeyboardInput.SpecialKeys.BACKSPACE);
-                //CoreAppXmlConfiguration.Instance.BusyTimeout;
             }
         }
 
@@ -265,7 +252,6 @@ namespace Squirrel.Automation.Extensions
             get { return _automationElement.Current.IsOffscreen; }
         }
 
-        //complete
         public static void SetText(UIItem uiItem, string value)
         {
             AutomationElement.AutomationElementInformation current = uiItem.AutomationElement.Current;
@@ -293,7 +279,6 @@ namespace Squirrel.Automation.Extensions
             {
                 _Logger.ErrorFormat("Can not enter text in Textbox : " + uiItem + ex);
                 throw ex;
-
             }
         }
 
@@ -312,5 +297,47 @@ namespace Squirrel.Automation.Extensions
             return parentWindow.ModalWindow(windowName, InitializeOption.NoCache);
         }
 
+        public static string GetRandomString(int size)
+        {
+            StringBuilder builder = new StringBuilder();
+            Random random = new Random();
+            char ch;
+            for (int i = 0; i < size; i++)
+            {
+                ch = Convert.ToChar(Convert.ToInt32(Math.Floor(26 * random.NextDouble() + 65)));
+                builder.Append(ch);
+            }
+
+            return builder.ToString();
+        }
+
+        public static string GetRandomNumber(int max)
+        {
+            Random random = new Random();
+            return random.Next(max).ToString();
+        }
+
+        public static IEnumerable<ListBox> GetList(List<IUIItem> list, string listitem)
+        {
+            foreach (ListBox item in list)
+            {
+                foreach (ListItem item2 in item.Items)
+                {
+                    if (item2.Name.Equals(listitem))
+                    {
+                        yield return item;
+                        break;
+                    }
+                }
+            }
+        }
+
+        public static T GetUIItem <T>(T t, Window window, SearchCriteria searchCriteria) where T : IUIItem
+        {
+            return window.Get<T>(searchCriteria);
+        }
+
+
     }
 }
+

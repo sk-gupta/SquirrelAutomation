@@ -85,19 +85,18 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="Extensions\Example.cs" />
+    <Compile Include="Extensions\Example\Example.cs" />
     <Compile Include="Extensions\SquirrelUIItemExtension.cs" />
-    <Compile Include="Extensions\TestListener.cs" />
     <Compile Include="Extensions\Wait.cs" />
     <Compile Include="Extensions\Functions.cs" />
     <Compile Include="Helpers\ExtentManager.cs" />
     <Compile Include="Helpers\ExtentTestManager.cs" />
     <Compile Include="Helpers\LogHelper.cs" />
-    <Compile Include="Pages\Customizer.cs" />
-    <Compile Include="Pages\DailySetup.cs" />
-    <Compile Include="Pages\EmployeeSetup.cs" />
+    <Compile Include="Pages\CustomizerPage.cs" />
+    <Compile Include="Pages\DailySetupPage.cs" />
+    <Compile Include="Pages\EmployeeSetupPage.cs" />
     <Compile Include="Pages\MainPage.cs" />
-    <Compile Include="Pages\MenuEntrySetup.cs" />
+    <Compile Include="Pages\MenuEntrySetupPage.cs" />
     <Compile Include="Pages\Options.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -107,7 +106,7 @@
     <Compile Include="Test Data\TestData.cs" />
     <Compile Include="Tests\BaseSetUp.cs" />
     <Compile Include="Tests\TestSetUp.cs" />
-    <Compile Include="Extensions\ItemSelectors.cs" />
+    <Compile Include="Extensions\Example\ItemSelectors.cs" />
     <Compile Include="Tests\SampleTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

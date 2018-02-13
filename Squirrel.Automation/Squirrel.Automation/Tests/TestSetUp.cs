@@ -19,9 +19,8 @@ namespace Squirrel.Automation.Tests
     [TestFixture]
     public class TestSetUp : BaseSetUp
     {
-        public static Application _application;
-        public static Window MainWindow;
-
+        protected Application MainApplication;
+        protected Window MainWindow;
         protected ExtentTest _test;
         private TestStatus _teststatus;
         private Status _logstatus;
@@ -77,16 +76,16 @@ namespace Squirrel.Automation.Tests
                     MainWindow = null;
                 }
             }
-            if (_application != null)
+            if (MainApplication != null)
             {
                 try
                 {
-                    _application.Kill();
-                    _application.Dispose();
+                    MainApplication.Kill();
+                    MainApplication.Dispose();
                 }
                 finally
                 {
-                    _application = null;
+                    MainApplication = null;
                 }
             }
         }
@@ -95,8 +94,8 @@ namespace Squirrel.Automation.Tests
         public void BeforeTest()
         {
             string applicaionPath = ConfigurationManager.AppSettings["ApplicationPath"];
-            _application = RunApp(applicaionPath);
-            MainWindow = GetMainWindow(_application);
+            MainApplication = RunApp(applicaionPath);
+            MainWindow = GetMainWindow(MainApplication);
             MainWindow.DisplayState = DisplayState.Maximized;
             _test = ExtentTestManager.CreateTest(TestContext.CurrentContext.Test.Name, "");
         }

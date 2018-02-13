@@ -49,7 +49,7 @@ namespace Squirrel.Automation.Test_Data
         public static readonly string EditBadgeInformationDialog = "            Edit Badge Information";
         public static readonly string SecurityGroup = "Cashier";
         public static readonly string DefaultTab = "MENU";
-        public static readonly string DefaultScreen = "DIRECTORY       ";
+        public static readonly string DirectoyOption = "DIRECTORY       ";
         public static readonly string POSAccessGroup = "Bar";
 
         #endregion

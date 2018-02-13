@@ -9,6 +9,9 @@ using TestStack.White.UIItems;
 
 namespace Squirrel.Automation.Extensions
 {
+    /// <summary>
+    /// Contains the methods that are not provided by TestStack White
+    /// </summary>
     public static class SquirrelUIItemExtension
     {
         public static T GetParentElement<T>(this IUIItem thisItem) where T : IUIItem

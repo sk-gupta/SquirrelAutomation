@@ -12,15 +12,16 @@ using TestStack.White.UIItems;
 
 namespace Squirrel.Automation.Extensions
 {
+    // This class contains additional wait function that are not provided by TestStack White
     public class Wait
     {
+        private static readonly log4net.ILog _Logger = LogHelper.GetLogger("Wait");
+
         public static void For(TimeSpan timeSpan)
         {
             Thread.Sleep(timeSpan);
         }
-
-        private static readonly log4net.ILog _Logger = LogHelper.GetLogger("Wait");
-
+        
         //implementation - Wait.Until(new Func<bool>(this.LoginButton.IsEnabled), TimeSpan.FromSeconds(20));
         public static bool Until(Func<bool> condition, TimeSpan timeout)
         {
